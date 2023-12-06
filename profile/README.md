@@ -1,13 +1,9 @@
 # Welcome to Goalpost.GG
 
-## Overview
+## Goalpost is a PvP wagering game with play-on-demand technology that allows users to play even when the room is empty by adding bots to the table.
 
-Goalpost is a PvP wagering game with play-on-demand technology that allows users to play even when the room is empty by adding bots to the table.
-
-## Projects
-
-- [Goalpost](https://goalpost.gg)
-- [BULLSvBEARS](https://bullsvbears.com)
+### - [Goalpost.gg](https://goalpost.GG)
+### - [BULLSvBEARS](https://bullsvbears.com)
 
 ## Contact Us
 
