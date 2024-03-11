@@ -1,11 +1,12 @@
-# Welcome to GOALPOST.GG Github by SAVAGE LAB STUDIOS
+# GOALPOST.GG by SAVAGE LAB STUDIOS - Organization
 
-## Goalpost is a PvP wagering game with play-on-demand technology that allows users to play even when the room is empty by adding bots to the table.
+> ### Goalpost is a highly social PvP card wagering game with play-on-demand technology enabling users to participate in games with friends, play against NPCs or practice with NPCs to keep it short. 
 
-### - [SAVAGE LABS](https://savagestud.io)
-### - [Goalpost.gg](https://goalpost.GG)
-### - [DRUIDS NFT](https://druids.vip) 
+## LEARN MORE ABOUT SAVAGE LABS & OUR BUILDS!
+> ### [SAVAGE LABS Company Site](https://savagestud.io)
+> ### [Goalpost.GG LIVE - Play Now!](https://goalpost.GG)
+> ### [DRUIDS Digital Access Club](https://druids.vip) 
 
 ## Contact Us
 
-If you have any questions or suggestions, please [contact us](mailto:contact@savagestud.io).
+> #### If you have any questions or suggestions, please [contact us](mailto:contact@savagestud.io).
