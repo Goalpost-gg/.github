@@ -22,7 +22,7 @@
 ## 🌐 Discover Savage Lab Studios & Our Innovative Creations!
 
 - 🤝 [**MEET SAVAGE LABS**](https://savage.tech) | Get to Know the Team Behind the Scenes!
-- 🏆 [**GOALPOST.GG**](https://beta.goalpost.gg) | Secure Your Spot in the [**LIVE BETA**](https://alpha.goalpost.gg) Now!
+- 🏆 [**GOALPOST.GG**](https://alpha.goalpost.gg) | Secure Your Spot in the [**LIVE ALPHA**](https://alpha.goalpost.gg) Now!
 - 🌳 [**DRUIDS NFT**](https://druids.vip) | An _Exclusive_ Community of 144 Members
   - 🔒 **Exclusive Events**
   - 🎁 **Unique Rewards**
