@@ -21,8 +21,8 @@
 
 ## 🌐 Discover Savage Lab Studios & Our Innovative Creations!
 
-- 🤝 [**MEET SAVAGE LABS**](https://savagestud.io) | Get to Know the Team Behind the Scenes!
-- 🏆 [**GOALPOST.GG**](https://beta.goalpost.gg) | Secure Your Spot in the [**LIVE BETA**](https://beta.goalpost.gg) Now!
+- 🤝 [**MEET SAVAGE LABS**](https://savage.tech) | Get to Know the Team Behind the Scenes!
+- 🏆 [**GOALPOST.GG**](https://beta.goalpost.gg) | Secure Your Spot in the [**LIVE BETA**](https://alpha.goalpost.gg) Now!
 - 🌳 [**DRUIDS NFT**](https://druids.vip) | An _Exclusive_ Community of 144 Members
   - 🔒 **Exclusive Events**
   - 🎁 **Unique Rewards**
@@ -34,9 +34,9 @@
 ---
 
 ### 📢 Stay Connected
-- 🐦 Follow us on [Twitter](https://twitter.com/GoalpostGG)
+- 🐦 Follow us on [Twitter](https://twitter.com/G0alpost)
 - 💬 Join our [DISCORD Community](https://discord.gg/goalpost)
-- 🧑‍💼 Discover the [Founder's Journey](https://linktr.ee/uneek.sol)
+- 🧑‍💼 Discover the [Founder's Journey](https://uneek.life)
 
 ### 📬 Get in Touch
 If you've got questions, suggestions, or just want to chat, don't hesitate to [contact us](mailto:contact@savagestud.io).
